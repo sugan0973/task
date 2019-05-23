@@ -4,4 +4,7 @@ egg
 veg rice
 
 
+pizza
+franch fry
+
 thank you
